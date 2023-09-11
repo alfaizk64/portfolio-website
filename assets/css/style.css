@@ -337,7 +337,7 @@ animation: zigzag 5s ease-in  infinite;
     padding: 3rem 0;
 }
 .project_container .project1{
-    background-image: url(../images/projects/Project1.png);
+    background-image: url(/images/projects/Project1.png);
     right:5%;
 } 
 .project_container .project_card{
@@ -448,7 +448,7 @@ animation: zigzag 5s ease-in  infinite;
 
 /* project 2 section */
 .project_container .project2{
-    background-image: url(../images/projects/Screenshot\ \(4\).png);
+    background-image: url(/images/projects/Screenshot\ \(4\).png);
     left: 5%;
 }
 .right_align{
@@ -461,12 +461,12 @@ left: -45px;
 
 /* project 3 section */
 .project_container .project3{
-    background-image: url(../images/projects/Project3.png);
+    background-image: url(/images/projects/Project3.png);
     right: 5%;
 }
 /* project 4 section */
 .project_container .project4{
-    background-image: url(../images/projects/Project4.png);
+    background-image: url(/images/projects/Project4.png);
     left: 5%;
 }
 
