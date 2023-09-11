@@ -20,10 +20,15 @@
         left: 0%;
         bottom: 0%;
     }
-    .btn{
+    /* .btn{
         font-size: 10px;
         padding: 0.6rem 1.3rem;
+    } */
+    .project_container .project_card .project_content .btn_group{
+        flex-wrap: wrap;
     }
+
+
     .hero_container .hero_left{
         gap: 1rem;
     }
