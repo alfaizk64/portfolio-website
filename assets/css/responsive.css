@@ -21,7 +21,7 @@
         bottom: 0%;
     }
     .btn{
-   display: block;
+   font-size: 12px;
     }
     .project_container .project_card .project_content .btn_group{
         flex-wrap: wrap;
